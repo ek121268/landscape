@@ -344,6 +344,12 @@ landscape:
             logo: kusionstack.svg
             twitter: https://twitter.com/KusionStack
             crunchbase: https://www.crunchbase.com/organization/ant-group
+          - item: Lightrun Developer Observability Platform
+             description: Lightrun is a developer native observability platform that enables developers to troubleshoot remote and distributed workloads (K8S, Serverless, Containerized apps) at runtime without the need to stop the app or redeploy it. The platform offers a range of IDE plugins for JetBrains (IntelliJ etc.), Visual Studio, Pycharm and more. Developers can debug runtime apps developed in Java, Python, Node, and .NET.
+             homepage_url: https://www.lightrun.com/
+             logo: Lighrrun-logo.svg
+             twitter: https://twitter.com/Lightruntech
+             crunchbase: https://www.crunchbase.com/organization/lightrun
           - item:
             name: LinuxKit
             homepage_url: https://github.com/linuxkit/linuxkit
